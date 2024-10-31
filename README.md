@@ -1,0 +1,1 @@
+This all belongs to FFTW.  I claim no rights to it.  See https://www.fftw.org/
